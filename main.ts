@@ -26,7 +26,7 @@ enum GamepadJoystick {
     // % block="Y"
     y = 1
 }
-//% weight=10 color=#0fbc11 icon="\uf11b" block="Gamepad"
+//% weight=10 color=#bc0f11 icon="\uf11b" block="jpystick"
 namespace joystick {
     let initflag: number = 0
     let joystickStep = 128
